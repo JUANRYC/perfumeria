@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1004672054300",
+    "project_id": "perfumeria-cfb9f",
+    "storage_bucket": "perfumeria-cfb9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004672054300:android:fa1e0bee960e2896355bd9",
+        "android_client_info": {
+          "package_name": "com.sena.perfumeria"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALjWBMuBfU8Dj9cLm09f7xg4awJz8MfkI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
